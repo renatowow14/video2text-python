@@ -1,0 +1,4 @@
+moviepy
+SpeechRecognition
+pydub
+multiprocessing-logging
